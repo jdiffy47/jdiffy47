@@ -1,8 +1,6 @@
 <div align="center">
   
-```bash
-# Welcome to Jake's Terminal
-```
+# Welcome to Jake's Profile
 
 </div>
 
@@ -51,33 +49,8 @@ I'm passionate about building software that makes a difference. I love solving c
 
 ---
 
-## ⏳ Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- Auto updated by GitHub Actions -->
-<!--END_SECTION:activity-->
-
----
-
 ## 📈 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jdiffy47&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-## 🤝 **Let's Connect**
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jakediefenderfer)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakediefenderfer@gmail.com)
-
-**Ready to build something amazing?** Let's chat! 💬
-
-</div>
-
-```bash
-# Thanks for visiting! 👋
-```
 
 ---
