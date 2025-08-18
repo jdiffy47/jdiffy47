@@ -47,10 +47,4 @@ I'm passionate about building software that makes a difference. I love solving c
 
 </div>
 
----
 
-## 📈 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=jdiffy47&label=Profile%20Views&color=0e75b6&style=flat)
-
----
