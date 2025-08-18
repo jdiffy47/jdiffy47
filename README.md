@@ -1,10 +1,4 @@
-<div align="center">
-  
-# Welcome to Jake's Profile
 
-</div>
-
----
 
 ### 🚀 **About Me**
 I'm passionate about building software that makes a difference. I love solving complex problems and creating clean, maintainable code that others can easily understand and build upon.
