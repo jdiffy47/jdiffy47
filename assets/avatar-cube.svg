@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024" role="img" aria-label="Orange isometric cube on dark background">
+  <rect width="1024" height="1024" fill="#0d1117"/>
+  <!-- soft ground shadow -->
+  <ellipse cx="512" cy="836" rx="300" ry="54" fill="#fb923c" fill-opacity="0.10"/>
+  <!-- cube: top / right / left -->
+  <polygon points="512,212 772,362 512,512 252,362" fill="#fb923c"/>
+  <polygon points="772,362 772,662 512,812 512,512" fill="#9a3412"/>
+  <polygon points="252,362 512,512 512,812 252,662" fill="#c2410c"/>
+  <!-- edge highlight on the top face -->
+  <polyline points="252,362 512,212 772,362" fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="8" stroke-linejoin="round"/>
+</svg>
