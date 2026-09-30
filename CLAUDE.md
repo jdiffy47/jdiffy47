@@ -10,5 +10,6 @@ Source of `github.com/jdiffy47` (the profile README). **Public repo.**
 - Because Actions commit to `main`, run `git pull --rebase` before pushing.
 - Never hand-edit generated SVGs (`profile-3d-contrib/`).
 - lowlighter/metrics was tried and dropped (2026-09-30): without a PAT it only sees public repos, and Jake chose not to add one.
+- Profile avatar source is `assets/avatar-cube.svg` (render: `qlmanage -t -s 1024 -o . avatar-cube.svg`). GitHub has no avatar API; Jake uploads the PNG at github.com/settings/profile.
 - One accent: `#c2410c` light / `#fb923c` dark. URL-based widgets: capsule-render, readme-typing-svg, skillicons.dev, streak-stats.
 - No Claude attribution in commits.
