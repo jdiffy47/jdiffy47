@@ -15,10 +15,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Custom settings render only the 3D grid: radar chart, counts and
+      # date range are colored transparent (the action has no hide option).
       - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: 3d-contrib.settings.json
 
       # Writes profile-3d-contrib/*.svg onto main.
       - name: Commit generated graphs
