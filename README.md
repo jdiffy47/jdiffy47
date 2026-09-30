@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  I build PHP and JavaScript systems that connect business workflows, data, and third-party services.<br>
-  Most of it ships to private client repos, so the graphs below are the public evidence.
+  I build PHP and JavaScript systems that connect business workflows, data, and third-party services.
 </p>
 
 <p align="center">
