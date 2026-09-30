@@ -37,4 +37,4 @@ Nearly all of it is in private repos. The count is real; the repo names aren't p
 
 ## Contact
 
-Open to backend and PHP roles. Email is fastest: **jake@jakediefenderfer.com** · [LinkedIn](https://www.linkedin.com/in/jakediefenderfer/) · [jakediefenderfer.com](https://jakediefenderfer.com)
+Open to developer roles. Email is fastest: **jake@jakediefenderfer.com** · [LinkedIn](https://www.linkedin.com/in/jakediefenderfer/) · [jakediefenderfer.com](https://jakediefenderfer.com)
