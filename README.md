@@ -35,10 +35,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="github-metrics.svg" alt="GitHub metrics: isometric calendar, commit habits, languages">
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jdiffy47/jdiffy47/output/github-contribution-grid-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/jdiffy47/jdiffy47/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake">
