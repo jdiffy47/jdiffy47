@@ -22,11 +22,6 @@
 
 ## Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-3d-dark.svg">
-  <img src="profile-3d-contrib/profile-3d-light.svg" width="100%" alt="3D contribution graph">
-</picture>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jdiffy47&mode=weekly&hide_border=true&background=00000000&ring=fb923c&fire=fb923c&currStreakLabel=fb923c&currStreakNum=f0f6fc&sideNums=f0f6fc&sideLabels=9198a1&dates=9198a1">
