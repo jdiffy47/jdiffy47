@@ -27,7 +27,9 @@ jobs:
           template: classic
           config_timezone: America/New_York
           config_octicon: yes
-          base: header, activity, community, repositories
+          # community/repositories omitted: they render as rows of zeros
+          # (sponsors, releases, stargazers) for someone whose work is private.
+          base: header, activity
           base_indepth: yes
           repositories_affiliations: owner
           repositories_forks: no
